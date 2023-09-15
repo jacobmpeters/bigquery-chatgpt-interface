@@ -2,7 +2,7 @@ Objective: Use the ChatGPT and BigQuery APIs to explore a dataset using natural 
 
 # Google BigQuery Chatbot
 
-natural_language_query.py is a Python script that uses the OpenAI GPT-3.5 Turbo model to create SQL queries in Google BigQuery based on natural language queries. The script also handles errors and provides interactive communication with the user. Eventually, I plan to implement automatica mapping of concepts to concept IDs using a data dictionary.
+natural_language_query.py is a Python script that uses the OpenAI GPT-3.5 Turbo model to create SQL queries in Google BigQuery based on natural language queries. The script also handles errors and provides interactive communication with the user. Eventually, I plan to implement automatic mapping of concepts to concept IDs using a data dictionary.
 
 ## Table of Contents
 
